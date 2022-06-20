@@ -8,3 +8,15 @@
 The last thing I learned from Markdown syntax is how to include comments. I read it from here: [stackoverflow answer on markdown comments](https://stackoverflow.com/questions/4823468/comments-in-markdown).
 
 **Thoughts:** I did finish HTML, CSS and Javascript courses. React seems to be really difficult for me at the moment. My idea is to finish the tutorials (tutorial hell?) and then try to build something from scratch and study everything again, hoping to understand the concepts better.
+
+**Goals**: Here is a list of the things I would like to learn/master during this challenge.
+
+* [x] HTML
+* [x] CSS
+* [ ] Sass
+* [ ] Javascript
+* [ ] Jquery
+* [ ] React
+* [ ] Photoshop
+* [ ] Figma
+* [ ] Design applied to websites
