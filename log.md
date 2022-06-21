@@ -20,3 +20,10 @@ The last thing I learned from Markdown syntax is how to include comments. I read
 * [ ] Photoshop
 * [ ] Figma
 * [ ] Design applied to websites
+
+### Day 1: June 21, 2022
+
+**Today's Progress**: 
+
+* I finished the React exercises from freeCodeCamp: https://www.freecodecamp.org/learn/front-end-development-libraries#react
+* While working on my website ([deusdev.tech](http://deusdev.tech/)) I was able to fix a bug on the navbar. Whe the user clicked on a link (on mobile devices) the navbar stayed open. I solved this with a simple Javascript function.
