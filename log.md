@@ -27,3 +27,11 @@ The last thing I learned from Markdown syntax is how to include comments. I read
 
 * I finished the React exercises from freeCodeCamp: https://www.freecodecamp.org/learn/front-end-development-libraries#react
 * While working on my website ([deusdev.tech](http://deusdev.tech/)) I was able to fix a bug on the navbar. Whe the user clicked on a link (on mobile devices) the navbar stayed open. I solved this with a simple Javascript function.
+
+### Day 2: June 22, 2022
+
+**Today's Progress**: 
+
+* Today I've been working on Javascript Events. I placed a couple of buttons to test the different Mouse events (click, mousedown, etc).
+* I end up learning/using [Document.querySelectorAll](https://developer.mozilla.org/es/docs/Web/API/Document/querySelectorAll). I used this to select all buttons I was using to test the Mouse events.
+* Link to work in progress: [deusdev javascript events](https://deusdev.tech/blog/javascript-events/)
