@@ -41,3 +41,13 @@ The last thing I learned from Markdown syntax is how to include comments. I read
 **Today's Progress**: 
 
 * Today I finished the Redux exercises from freecodecamp: https://www.freecodecamp.org/learn/front-end-development-libraries/#redux
+
+### Day 4: June 24, 2022
+
+**Today's Progress**: 
+
+* Today I finished all exercises from freecodecamp front end dev libraries (last I finished was react and redux: [https://www.freecodecamp.org/learn/front-end-development-libraries/#redux](https://www.freecodecamp.org/learn/front-end-development-libraries)
+* I started the Random Quote Machine: https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-random-quote-machine
+
+**Thoughts:**
+React and Redux was really hard for me and I will have to study again from another sources to help me practice more.
