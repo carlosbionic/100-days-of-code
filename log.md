@@ -35,3 +35,9 @@ The last thing I learned from Markdown syntax is how to include comments. I read
 * Today I've been working on Javascript Events. I placed a couple of buttons to test the different Mouse events (click, mousedown, etc).
 * I end up learning/using [Document.querySelectorAll](https://developer.mozilla.org/es/docs/Web/API/Document/querySelectorAll). I used this to select all buttons I was using to test the Mouse events.
 * Link to work in progress: [deusdev javascript events](https://deusdev.tech/blog/javascript-events/)
+
+### Day 3: June 23, 2022
+
+**Today's Progress**: 
+
+* Today I finished the Redux exercises from freecodecamp: https://www.freecodecamp.org/learn/front-end-development-libraries/#redux
