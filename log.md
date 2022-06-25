@@ -51,3 +51,9 @@ The last thing I learned from Markdown syntax is how to include comments. I read
 
 **Thoughts:**
 React and Redux was really hard for me and I will have to study again from another sources to help me practice more.
+
+### Day 5: June 25, 2022
+
+**Today's Progress**: I finished the Javascript exercises from W3schools: [https://www.w3schools.com/js/js_exercises.asp](https://www.w3schools.com/js/js_exercises.asp)
+
+**Thoughts:** Going back to the basics of Javascript (and then maybe Jquery) seems like a good idea before blindly jumping onto the React projects from freecodecamp.
