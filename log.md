@@ -56,4 +56,8 @@ React and Redux was really hard for me and I will have to study again from anoth
 
 **Today's Progress**: I finished the Javascript exercises from W3schools: [https://www.w3schools.com/js/js_exercises.asp](https://www.w3schools.com/js/js_exercises.asp)
 
+### Day 6: June 26, 2022
+
+**Today's Progress**: I continue reading about Javascript events. I also started with [jschallenger.com](jschallenger.com).
+
 **Thoughts:** Going back to the basics of Javascript (and then maybe Jquery) seems like a good idea before blindly jumping onto the React projects from freecodecamp.
