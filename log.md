@@ -61,3 +61,9 @@ React and Redux was really hard for me and I will have to study again from anoth
 **Today's Progress**: I continue reading about Javascript events. I also started with [jschallenger.com](jschallenger.com).
 
 **Thoughts:** Going back to the basics of Javascript (and then maybe Jquery) seems like a good idea before blindly jumping onto the React projects from freecodecamp.
+
+### Day 7: June 27, 2022
+
+**Today's Progress**: Today I worked on a CodePen Challenge: https://codepen.io/challenges
+
+I made a CodePen with the digits of the number of pi circling around the Pi symbol. Link to the CodePen: [https://codepen.io/carlosbionic/pen/ExEYMbr](https://codepen.io/carlosbionic/pen/ExEYMbr)
