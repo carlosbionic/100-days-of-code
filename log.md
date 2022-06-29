@@ -67,3 +67,15 @@ React and Redux was really hard for me and I will have to study again from anoth
 **Today's Progress**: Today I worked on a CodePen Challenge: https://codepen.io/challenges
 
 I made a CodePen with the digits of the number of pi circling around the Pi symbol. Link to the CodePen: [https://codepen.io/carlosbionic/pen/ExEYMbr](https://codepen.io/carlosbionic/pen/ExEYMbr)
+
+### Day 8: June 28, 2022
+
+**Today's Progress**: Worked on javascript events. I also started with Figma.
+
+### Day 9: June 29, 2022
+
+**Today's Progress**:
+
+Worked on my website: [deusdev.tech](deusdev.tech)
+* Fixed header p elements that were overlapping each other.
+* Fixed text wrapping using `overflow-wrap: break-word;` on the body of blog styles
