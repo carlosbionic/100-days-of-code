@@ -79,3 +79,13 @@ I made a CodePen with the digits of the number of pi circling around the Pi symb
 Worked on my website: [deusdev.tech](deusdev.tech)
 * Fixed header p elements that were overlapping each other.
 * Fixed text wrapping using `overflow-wrap: break-word;` on the body of blog styles
+
+### Day 10: June 30, 2022
+
+**Today's Progress**: Worked on my website and with boto3 library of Python
+
+### Day 11: July 1, 2022
+
+**Today's Progress**:
+
+* Worked on a multi language website. I made a codepen to start testing it: https://codepen.io/carlosbionic/pen/yLKNeYv
