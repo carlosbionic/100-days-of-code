@@ -89,3 +89,27 @@ Worked on my website: [deusdev.tech](deusdev.tech)
 **Today's Progress**:
 
 * Worked on a multi language website. I made a codepen to start testing it: https://codepen.io/carlosbionic/pen/yLKNeYv
+
+### Day 12: July 2, 2022
+
+**Today's Progress**:
+
+* I worked on my website trying to improve google page insights score.
+
+* I manage to get 99 on desktop and 92 on mobile.
+
+* I need to fix other subpages to pass the scores.
+
+* Learned a little about async and defer for JavaScript: [Stackoverflow answer for this](https://t.co/njFWXEelK0)
+
+### July 3, 2022: took a break
+
+### Day 13: July 4, 2022
+
+**Today's Progress**:
+
+* Today I started with Leetcode  with Javascript. I did complete many problems some time ago using Python.
+
+* I made a new session for Javascript . Today I finished two problems: #1 (twosum) and #135 (candy)
+
+* [word break on mobile devices](https://codepen.io/carlosbionic/pen/abYvLrm)
