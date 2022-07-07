@@ -113,3 +113,21 @@ Worked on my website: [deusdev.tech](deusdev.tech)
 * I made a new session for Javascript . Today I finished two problems: #1 (twosum) and #135 (candy)
 
 * [word break on mobile devices](https://codepen.io/carlosbionic/pen/abYvLrm)
+
+### Day 14: July 5, 2022
+
+**Today's Progress**: I started working on the random quote machine. I worked on styles. Tomorrow I will begin working on the app itself.
+
+### Day 15: July 6, 2022
+
+**Today's Progress**:
+
+* Read more one JavaScript events
+
+* Did two exercises on leetcode (JavaScript)
+
+### Day 16: July 7, 2022
+
+**Today's Progress**:
+
+* Finished random quote machine for freecodecamp: https://codepen.io/carlosbionic/pen/mdXNLwL
