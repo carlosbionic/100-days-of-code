@@ -17,7 +17,6 @@ The last thing I learned from Markdown syntax is how to include comments. I read
 * [ ] Javascript
 * [ ] Jquery
 * [ ] React
-* [ ] Photoshop
 * [ ] Figma
 * [ ] Design applied to websites
 
@@ -131,3 +130,55 @@ Worked on my website: [deusdev.tech](deusdev.tech)
 **Today's Progress**:
 
 * Finished random quote machine for freecodecamp: https://codepen.io/carlosbionic/pen/mdXNLwL
+
+### Day 17: July 8, 2022
+
+**Today's Progress**:
+
+* Started working on Markdown Previewer project for freeCodeCamp .
+
+* Been reading more on javascript events, and some of React 's best practices.
+
+* Finished one leetcode  problem (66. Plus One).
+
+### Day 18: July 9, 2022
+
+**Today's Progress**: Finally finished reading javascript events. I need to practice more, but I feel I learned a lot.
+
+### Day 19: July 10, 2022
+
+**Today's Progress**: Today I did one problem on leetcode (821: shortest distance to a character)
+
+### Day 20: July 11, 2022
+
+**Today's Progress**:
+
+* Today I did one problem on leetcode  (69: Sqrt(x))
+
+* I'm still trying to practice the very basics of javascript  before continuing with jQuery , Reactjs  and others. 
+
+* I don't want to rush things more than necessary.
+
+### Day 21: July 12, 2022
+
+**Today's Progress**: Today I finished the markdown previewer using react. However I want to give it better styling (headers and colors for code sections). Will continue tomorrow.
+
+### Day 22: July 13, 2022
+
+**Today's Progress**:
+
+* Finished the markdown previewer using Reactjs, for freeCodeCamp: https://codepen.io/carlosbionic/pen/YzaqedW
+
+* Did one problem on #leetcode for javascript  (20: valid parentheses)
+
+### Day 23: July 14, 2022
+
+**Today's Progress**:
+
+* Working on Drum Machine project from freeCodeCamp using Reactjs, for freeCodeCamp 
+
+* Did one problem on leetcode for javascript  (1578: Minimum Time to Make Rope Colorful)
+
+### Day 24: July 15, 2022
+
+**Today's Progress**: Today I worked on a switch/toggle button. I didn't know how to do it, so I found a way using javascript and #CSS  animations with keyframes. Link: https://codepen.io/carlosbionic/pen/LYdbeJj
