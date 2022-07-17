@@ -182,3 +182,11 @@ Worked on my website: [deusdev.tech](deusdev.tech)
 ### Day 24: July 15, 2022
 
 **Today's Progress**: Today I worked on a switch/toggle button. I didn't know how to do it, so I found a way using javascript and #CSS  animations with keyframes. Link: https://codepen.io/carlosbionic/pen/LYdbeJj
+
+### Day 25: July 16, 2022
+
+**Today's Progress**
+
+* Working on drum machine for freeCodeCamp. Still working on stylings.
+
+* Learned `window.getComputedStyle` to get styles of elements after being loaded into the DOM.
