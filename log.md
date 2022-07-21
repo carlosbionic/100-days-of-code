@@ -19,6 +19,7 @@ The last thing I learned from Markdown syntax is how to include comments. I read
 * [ ] React
 * [ ] Figma
 * [ ] Design applied to websites
+* [ ] AWS
 
 ### Day 1: June 21, 2022
 
