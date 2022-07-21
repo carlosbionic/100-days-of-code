@@ -209,4 +209,4 @@ Worked on my website: [deusdev.tech](deusdev.tech)
 
 * Classes
 * Destructuring
-* 
+* Modules
