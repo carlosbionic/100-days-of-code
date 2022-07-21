@@ -190,3 +190,23 @@ Worked on my website: [deusdev.tech](deusdev.tech)
 * Working on drum machine for freeCodeCamp. Still working on stylings.
 
 * Learned `window.getComputedStyle` to get styles of elements after being loaded into the DOM.
+
+### Day 26: July 18, 2022
+
+**Today's Progress**: Today I was working on my website. Fixing several styling issues on the main page.
+
+### Day 27: July 19, 2022
+
+**Today's Progress**: Today I worked some more on drum machine project. Started react components. Finished (kinda) stylings.
+
+### Day 28: July 20, 2022
+
+**Today's Progress**: Started reading and practicing #Reactjs from w3schools before finishing the drum machine project.
+
+### Day 29: July 21, 2022
+
+**Today's Progress**: Reading react from w3schools, learned:
+
+* Classes
+* Destructuring
+* 
