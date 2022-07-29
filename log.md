@@ -211,3 +211,40 @@ Worked on my website: [deusdev.tech](deusdev.tech)
 * Classes
 * Destructuring
 * Modules
+
+### Day 30: July 22, 2022
+
+**Today's Progress**:
+
+* Read more on Reactjs 
+* Resume my Python practice (classes)
+
+### Day 31: July 23, 2022
+
+**Today's Progress**: Read and practice HTML and CSS stylings on a new website, possibly a new client (hoping)
+
+### Day 32: July 25, 2022
+
+**Today's Progress**: Continuing my ReactJS journey working on the drum machine project.
+
+### Day 33: July 26, 2022
+
+**Today's Progress**:
+
+* Made a codepen for a challenge (marbles): https://codepen.io/deusdev/pen/oNqePmR
+* Writing a blog post for var, let, const (javascript)
+* Made syntax highlighting for code blocks with highlight.js
+
+### Day 34: July 27, 2022
+
+**Today's Progress**: Today I finished writing a new #blog post about #javascript variables. Link: http://deusdev.tech/blog/javascript-var-let-const/
+
+### Day 35: July 28, 2022
+
+**Today's Progress**: Today I was finally be able to finish my project for freeCodeCamp: a drum machine with reactjs . Very fun, challenging and I learned a lot with it! Link: https://codepen.io/deusdev/pen/qBoqXLX
+
+### Day 36: July 29, 2022
+
+**Today's Progress**:
+
+* Did one LeetCode problem with JavaScript (38: Count and Say). https://leetcode.com/problems/count-and-say/
