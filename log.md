@@ -248,3 +248,5 @@ Worked on my website: [deusdev.tech](deusdev.tech)
 **Today's Progress**:
 
 * Did one LeetCode problem with JavaScript (38: Count and Say). https://leetcode.com/problems/count-and-say/
+* Started calculator project for freeCodeCamp with react.
+* This time I will use function components, instead of class components.
